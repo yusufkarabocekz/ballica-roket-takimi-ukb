@@ -92,15 +92,8 @@ LoRa: Veri gonderildi (Paket #1)
 
 ## Iletisim
 
-**Email:** ballica@example.com  
-**GitHub:** https://github.com/ballica-rokettakimi  
-**Website:** https://ballica-rokettakimi.com  
+**Email:** yusufkarabocekz@gmail.com
 
-## Katkida Bulunanlar
-
-- Ballica Roket Takimi Uyeleri
-- KTR Proje Ekibi
-- Teknik Danismanlar
 
 ## Lisans
 
